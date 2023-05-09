@@ -1,5 +1,5 @@
 ## Convolutional Neural Network in Julia
-The pgoal of this project is to create custom implementation of CNN in Julia language to recognsie digits from the MNIST database without using any additional machine learning libraries. 
+The goal of this project is to create custom implementation of CNN in Julia language to recognsie digits from the MNIST database without using any additional machine learning libraries. 
 It's a simple network with custom parameters, but the main reason for building it was familiarise myself with neural network architectures and the principles of automatic differentiation.
 This network consists of:
 - **convolutional layer** with multiple kernels
